@@ -1,0 +1,17 @@
+*/node_modules
+.vscode
+*/.vscode
+/.vscode
+**/.env
+**/*.csv
+**/*.pem
+**/*.crt
+**/common_service/db_config/*.json
+**/*.jpg
+**/*.png
+**/*.gif
+**/*.pdf
+node_modules
+**/common_service/constant/*.json
+# /common_service/constant/constant.json 
+**/logs/*.log
